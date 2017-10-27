@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="prehistory_gradient_end">#110b44</color>
+    <color name="prehistory_gradient_center">#3c29b1</color>
+    <color name="prehistory_gradient_start">#9f38b0</color>
+
+    <color name="selected">#ffbb18</color>
+    <color name="non_selected">#7fffbb18</color>
+    <color name="floor_blue">#0076ff</color>
+</resources>
